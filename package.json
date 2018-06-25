@@ -22,7 +22,7 @@
     "embed.js",
     "full.js"
   ],
-  "pre-commit": [r
+  "pre-commit": [
     "lint"
   ],
   "repository": {
